@@ -1,0 +1,60 @@
+{
+  "wedding1": {
+    "users": {
+      "user1": {
+        "name": "Paola",
+        "password": "123456"
+      }
+    },
+    "guests": {
+      "guest1": { "first_name": "Alice", "last_name": "Johnson", "rsvp": 0 },
+      "guest2": { "first_name": "Bob", "last_name": "Smith", "rsvp": 1 },
+      "guest3": { "first_name": "Charlie", "last_name": "Davis", "rsvp": 2 },
+      "guest4": { "first_name": "Diana", "last_name": "Brown", "rsvp": 0 },
+      "guest5": { "first_name": "Ethan", "last_name": "Williams", "rsvp": 0 },
+      "guest6": { "first_name": "Fiona", "last_name": "Taylor", "rsvp": 0 },
+      "guest7": { "first_name": "George", "last_name": "Thomas", "rsvp": 0 },
+      "guest8": { "first_name": "Hannah", "last_name": "White", "rsvp": 0 },
+      "guest9": { "first_name": "Isaac", "last_name": "Harris", "rsvp": 0 },
+      "guest10": { "first_name": "Julia", "last_name": "Martin", "rsvp": 0 },
+      "guest11": { "first_name": "Kevin", "last_name": "Clark", "rsvp": 0 },
+      "guest12": { "first_name": "Laura", "last_name": "Lewis", "rsvp": 0 },
+      "guest13": { "first_name": "Mark", "last_name": "Robinson", "rsvp": 0 },
+      "guest14": { "first_name": "Nina", "last_name": "Walker", "rsvp": 0 },
+      "guest15": { "first_name": "Oscar", "last_name": "Young", "rsvp": 0 },
+      "guest16": { "first_name": "Paula", "last_name": "Allen", "rsvp": 0 },
+      "guest17": { "first_name": "Quentin", "last_name": "Scott", "rsvp": 0 },
+      "guest18": { "first_name": "Rachel", "last_name": "Green", "rsvp": 0 },
+      "guest19": { "first_name": "Sam", "last_name": "Hill", "rsvp": 0 },
+      "guest20": { "first_name": "Tina", "last_name": "Adams", "rsvp": 0 },
+      "guest21": { "first_name": "Ursula", "last_name": "Baker", "rsvp": 0 },
+      "guest22": { "first_name": "Victor", "last_name": "Carter", "rsvp": 0 },
+      "guest23": { "first_name": "Wendy", "last_name": "Evans", "rsvp": 0 },
+      "guest24": { "first_name": "Xavier", "last_name": "Foster", "rsvp": 0 },
+      "guest25": { "first_name": "Yara", "last_name": "Graham", "rsvp": 0 },
+      "guest26": { "first_name": "Zane", "last_name": "Howard", "rsvp": 0 },
+      "guest27": { "first_name": "Amber", "last_name": "Hudson", "rsvp": 0 },
+      "guest28": { "first_name": "Brandon", "last_name": "Lane", "rsvp": 0 },
+      "guest29": { "first_name": "Cindy", "last_name": "Matthews", "rsvp": 0 },
+      "guest30": { "first_name": "Derek", "last_name": "Morgan", "rsvp": 0 },
+      "guest31": { "first_name": "Elena", "last_name": "Nash", "rsvp": 0 },
+      "guest32": { "first_name": "Felix", "last_name": "Owens", "rsvp": 0 },
+      "guest33": { "first_name": "Grace", "last_name": "Parker", "rsvp": 0 },
+      "guest34": { "first_name": "Harry", "last_name": "Price", "rsvp": 0 },
+      "guest35": { "first_name": "Isabel", "last_name": "Reed", "rsvp": 0 },
+      "guest36": { "first_name": "Jake", "last_name": "Sanders", "rsvp": 0 },
+      "guest37": { "first_name": "Karen", "last_name": "Turner", "rsvp": 0 },
+      "guest38": { "first_name": "Leo", "last_name": "Vaughn", "rsvp": 0 },
+      "guest39": { "first_name": "Mia", "last_name": "Wells", "rsvp": 0 },
+      "guest40": { "first_name": "Noah", "last_name": "Wood", "rsvp": 0 },
+      "guest41": { "first_name": "Olivia", "last_name": "Brooks", "rsvp": 0 },
+      "guest42": { "first_name": "Peter", "last_name": "Bryant", "rsvp": 0 },
+      "guest43": { "first_name": "Queenie", "last_name": "Carson", "rsvp": 0 },
+      "guest44": { "first_name": "Ray", "last_name": "Dixon", "rsvp": 0 },
+      "guest45": { "first_name": "Sophie", "last_name": "Ellis", "rsvp": 0 },
+      "guest46": { "first_name": "Tom", "last_name": "Fleming", "rsvp": 0 },
+      "guest47": { "first_name": "Uma", "last_name": "Gibson", "rsvp": 0 },
+      "guest48": { "first_name": "Vera", "last_name": "Harper", "rsvp": 0 }
+    }
+  }
+}

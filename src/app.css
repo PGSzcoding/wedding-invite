@@ -1,0 +1,143 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+@import 'bootstrap-icons/font/bootstrap-icons.css';
+
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+  -webkit-tap-highlight-color: transparent;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+
+  &:hover,
+  &:focus {
+    color: inherit;
+    text-decoration: none;
+  }
+}
+
+ul,
+li {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  text-indent: 0;
+  list-style-type: 0;
+}
+
+button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  outline: none;
+  font-weight: 400;
+}
+
+body {
+  font-family: "DM Serif Text", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+}
+
+/* Global Typography Styles */
+
+h1 {
+  font-size: 80px;
+  line-height: 1.1; /* Adjust as needed for spacing */
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 60px;
+  line-height: 1.2;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 40px;
+  line-height: 1.3;
+}
+
+h3 {
+  font-size: 22px;
+  line-height: 1.3;
+  font-weight: normal;
+}
+p,
+li {
+  font-size: 16px;
+  line-height: 1.4;
+}
+
+p {
+  margin-bottom: 1rem;
+}
+
+/* UTILITY CLASSES */
+.dark-grey {
+  color: #e85e7f;
+}
+
+.default-margin {
+  margin-left: 15vw;
+  margin-right: 20vw;
+  max-width: 950px;
+}
+
+.link {
+  text-decoration: underline;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.semi-bold {
+  font-weight: 500;
+}
+
+.color-1{ color: #e85e7f;}
+.bg-1{background-color: #e85e7f;}
+
+.color-2{ color: #5e7ce8;}
+.bg-2{background-color: #5e7ce8;;}
+.image-topper{position: absolute; width: 100%; height: 100%; z-index: 20; background-color: #00000066;}
+.cursive{
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight:400;
+  font-style: normal;
+}
+
+  add-to-calendar-button#css-part-example::part(atcb-button),
+  #atcb-btn-css-part-example-modal-host::part(atcb-button) {
+    background-color: #ede4d000;
+    color: #88a5bf;
+    border: solid 1px #88a5bf;
+  }
+  .bg-nude{background-color: #ede4d08c;}
+
+  .btn-blue:disabled{border-color: #4c6479; background-color: #485e71; color: rgba(255, 255, 255, 0.699);}
+  .btn-blue{width: 100%;border-color: #88a5bf; background-color: #88a5bf; color: white;}
+  .btn-blue:hover{background-color: #6f8aa2; color: white;}
+@media only screen and (max-width: 600px) {
+  h1{font-size: 60px;}
+}
+/* #88a5bf */
+
+
